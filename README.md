@@ -1,13 +1,17 @@
 
-
 Requirements:
 
-Build a Airbnb Experiences clone using React according to the Figma file
-Reusable Components
-React Props
-array .map()
-Conditional Rendering
-Styling with Classes
+•	Build a Airbnb Experiences clone using React according to the Figma file
+
+•	Reusable Components
+
+•	React Props
+
+•	array .map()
+
+•	Conditional Rendering
+
+•	Styling with Classes
 
 
 ![](http://localhost:3000)
